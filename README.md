@@ -81,7 +81,7 @@ const MyForm = () => {
 
 - 这里填写示例标题
 - 这里填写示例说明
-- _CaptchaSender(@kne/current-lib_captcha-sender)[import * as _CaptchaSender from "@kne/captcha-sender"],(@kne/current-lib_captcha-sender/dist/index.css),ReactForm(@kne/react-form-antd),(@kne/react-form-antd/dist/index.css),antd(antd)
+- _CaptchaSender(@kne/current-lib_captcha-sender)[import * as _CaptchaSender from "@kne/captcha-sender"],ReactForm(@kne/react-form-antd),(@kne/react-form-antd/dist/index.css),antd(antd)
 
 ```jsx
 const { default: CaptchaSender } = _CaptchaSender;

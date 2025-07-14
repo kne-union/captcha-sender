@@ -12,9 +12,6 @@
           "importStatement": "import * as _CaptchaSender from \"@kne/captcha-sender\""
         },
         {
-          "packageName": "@kne/current-lib_captcha-sender/dist/index.css"
-        },
-        {
           "name": "ReactForm",
           "packageName": "@kne/react-form-antd"
         },
