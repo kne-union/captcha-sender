@@ -1,0 +1,31 @@
+{
+  "isFull": false,
+  "list": [
+    {
+      "title": "这里填写示例标题",
+      "description": "这里填写示例说明",
+      "code": "./base.js",
+      "scope": [
+        {
+          "name": "_CaptchaSender",
+          "packageName": "@kne/current-lib_captcha-sender",
+          "importStatement": "import * as _CaptchaSender from \"@kne/captcha-sender\""
+        },
+        {
+          "packageName": "@kne/current-lib_captcha-sender/dist/index.css"
+        },
+        {
+          "name": "ReactForm",
+          "packageName": "@kne/react-form-antd"
+        },
+        {
+          "packageName": "@kne/react-form-antd/dist/index.css"
+        },
+        {
+          "name": "antd",
+          "packageName": "antd"
+        }
+      ]
+    }
+  ]
+}
