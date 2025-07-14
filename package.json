@@ -1,6 +1,6 @@
 {
   "name": "@kne/captcha-sender",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "用于实现一个发送验证码按钮",
   "syntax": {
     "esmodules": true
